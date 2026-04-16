@@ -25,7 +25,7 @@ This project analyzes e-commerce sales data using Python and Power BI.
 * ## 📊 Power BI Dashboard
 
 🔗 يمكنك مشاهدة لوحة التحكم هنا:
-https://app.powerbi.com/groups/me/reports/66ea6fac-f484-4502-ace1-1de3c025bea4/d4aea76048964b9d6d75?experience=power-bi
+[https://app.powerbi.com/groups/me/reports/66ea6fac-f484-4502-ace1-1de3c025bea4/d4aea76048964b9d6d75?experience=power-bi](https://app.powerbi.com/groups/me/reports/66ea6fac-f484-4502-ace1-1de3c025bea4/d4aea76048964b9d6d75?experience=power-bi)
 * Customer segmentation
 
 ## 📁 Files
